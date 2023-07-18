@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula do curso em video.
 
- Linha adicionada direto do editor de texto do site
+ Linha adicionada direto do editor de texto do site.
